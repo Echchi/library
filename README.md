@@ -1,6 +1,6 @@
-# modernJS_deepDive
+# modernJS_deepDive🦎
 ![Lizard](https://github.com/Echchi/modernJS_deepDive/assets/112493260/8a1bbade-0acf-467b-890a-236990a9655e)
-퇴근하고 조금 주말에 조금 많이 모던 자바스크립트 딥다이브 정리 🦎
+퇴근하고 조금 주말에 조금 많이 모던 자바스크립트 딥다이브 정리
 
 ### 공부 기간
 23.11.02. ~
