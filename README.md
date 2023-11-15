@@ -9,7 +9,7 @@
 [울지말고 침착하게-모던 자바스크립트 Deep Dive](https://echi.tistory.com/category/Javascript)
 
 
-## modernJS_deepDive Q&A로 이해하기 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Nerd%20Face.webp" alt="Nerd Face" width="50" height="50" />
+## modernJS_deepDive Q&A로 이해하기
 #### 01.Variable
 * ##### [변수 선언 과정에 대해 설명해주세요!](https://github.com/Echchi/modernJS_deepDive/blob/main/01.Variable/01.Variable.md#%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8)
 * ##### [호이스팅이란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/01.Variable/01.Variable.md#%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EC%9D%98-%EC%8B%A4%ED%96%89-%EC%8B%9C%EC%A0%90%EA%B3%BC-%EB%B3%80%EC%88%98-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
