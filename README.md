@@ -82,3 +82,13 @@
 #### 19. this
 * ##### [자바스크립트에서 this 란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/19.this/19.this.md#this-%ED%82%A4%EC%9B%8C%EB%93%9C)
 * ##### [this 바인딩은 어떻게 결정되나요?](https://github.com/Echchi/modernJS_deepDive/blob/main/19.this/19.this.md#%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C-%EB%B0%A9%EC%8B%9D%EA%B3%BC-this-%EB%B0%94%EC%9D%B8%EB%94%A9)
+
+#### 20. Execution Context
+* ##### [실행 컨텍스트란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/20.Execution%20Context/20.Execution%20Context.md#%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8--%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%8D%B0-%ED%95%84%EC%9A%94%ED%95%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EC%A0%9C%EA%B3%B5%ED%95%98%EA%B3%A0-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%8B%A4%ED%96%89-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94-%EC%98%81%EC%97%AD)
+*  ##### [렉시컬 환경이란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/20.Execution%20Context/20.Execution%20Context.md#%EB%A0%89%EC%8B%9C%EC%BB%AC-%ED%99%98%EA%B2%BD)
+*  ##### [실행 컨텍스트 생성 과정에 대해 설명해주세요!](https://github.com/Echchi/modernJS_deepDive/blob/main/20.Execution%20Context/20.Execution%20Context.md#%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%8B%9D%EB%B3%84%EC%9E%90-%EA%B2%80%EC%83%89-%EA%B3%BC%EC%A0%95)
+
+#### 21.Closure
+* ##### [클로저란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/21.Closure/21.Closure.md#%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EB%A0%89%EC%8B%9C%EC%BB%AC-%ED%99%98%EA%B2%BD)
+* ##### [클로저를 왜 사용하나요?](https://github.com/Echchi/modernJS_deepDive/blob/main/21.Closure/21.Closure.md#%ED%81%B4%EB%A1%9C%EC%A0%80%EC%9D%98-%ED%99%9C%EC%9A%A9)
+* ##### [캡슐화란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/21.Closure/21.Closure.md#%EC%BA%A1%EC%8A%90%ED%99%94%EC%99%80-%EC%A0%95%EB%B3%B4-%EC%9D%80%EB%8B%89)
