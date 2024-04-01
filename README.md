@@ -109,19 +109,25 @@
 #### 36.DOM
 * ##### [DOM 이란 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/36.DOM/36-1.DOM.md#dom-%EC%9D%80-html-%EB%AC%B8%EC%84%9C%EC%9D%98-%EA%B3%84%EC%B8%B5%EC%A0%81-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%A0%95%EB%B3%B4%EB%A5%BC-%ED%91%9C%ED%98%84%ED%95%98%EB%A9%B0-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-api-%EC%A6%89-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%ED%8A%B8%EB%A6%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 * ##### [노드 객체에는 어떤 타입이 있나요?](https://github.com/Echchi/modernJS_deepDive/blob/main/36.DOM/36-1.DOM.md#2-%EB%85%B8%EB%93%9C-%EA%B0%9D%EC%B2%B4%EC%9D%98-%ED%83%80%EC%9E%85)
-* ##### [노드 객체에는 어떤 타입이 있나요?](https://github.com/Echchi/modernJS_deepDive/blob/main/36.DOM/36-1.DOM.md#2-%EB%85%B8%EB%93%9C-%EA%B0%9D%EC%B2%B4%EC%9D%98-%ED%83%80%EC%9E%85)
+
 #### 37.Event
+* ##### [캡쳐링과 버블링의 차이는 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/37.Event/37.Event.md#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A0%84%ED%8C%8C)
+* ##### [이벤트 위임은 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/37.Event/37.Event.md#%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%9C%84%EC%9E%84)
 
 #### 38.Timer
+* ##### [디바운스와 스로틀에 대해 설명해주세요!](https://github.com/Echchi/modernJS_deepDive/blob/main/38.Timer/38.Timer.md#%EB%94%94%EB%B0%94%EC%9A%B4%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A1%9C%ED%8B%80)
 
-#### 39.Ajax, JSON, XMLHttpRequest
+#### 39.Asynchronous
+* ##### [동기 처리와 비동기 처리의 차이는 무엇인가요?](https://github.com/Echchi/modernJS_deepDive/blob/main/39.%20Asynchronous/39.Asynchronous.md#%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%B2%98%EB%A6%AC)
 
-#### 40.REST API
+#### 41.REST API
+* ##### [HTTP 요청 메서드에는 어떤 것들이 있나요?](https://github.com/Echchi/modernJS_deepDive/blob/main/41.REST%20API/41.REST%20API.md#rest-api-%EC%84%A4%EA%B3%84-%EC%9B%90%EC%B9%99)
+  
+#### 42.Promise
+* ##### [프로미스 객체에 대해 설명해주세요!](https://github.com/Echchi/modernJS_deepDive/blob/main/42.Promise/42.Promise.md#%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4%EC%9D%98-%EC%83%9D%EC%84%B1)
 
-#### 41.Promise
+#### 43.Geterator, async&await
 
-#### 42.Geterator, async&await
+#### 44.error
 
-#### 43.error
-
-#### 44.module
+#### 45.module
