@@ -1,4 +1,4 @@
-# modernJS_deepDive <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="50" height="50" />
+# 모던 자바스크립트 Deep Dive<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Pencil.webp" alt="Pencil" width="50" height="50" />
 ![Lizard](https://github.com/Echchi/modernJS_deepDive/assets/112493260/8a1bbade-0acf-467b-890a-236990a9655e)
 퇴근하고 조금 주말에 조금 많이 모던 자바스크립트 딥다이브 정리
 
