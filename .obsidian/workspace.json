@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "modern-javascript-deep-dive/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcdb110ce014ca8e",
+  "active": "ed150b5a6bc3e08e",
   "lastOpenFiles": [
+    "README.md",
     "modern-javascript-deep-dive/2nd-read",
     "modern-javascript-deep-dive/1st-read/Untitled",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "modern-javascript-deep-dive/1st-read/01.Variable/01.Variable.md",
     "modern-javascript-deep-dive/README.md",
     "modern-javascript-deep-dive/1st-read"
