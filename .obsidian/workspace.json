@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "modern-javascript-deep-dive/2nd-read/01.Variable/01.Variable.md",
+                "file": "modern-javascript-deep-dive/2nd-read/02.Expression Statement/02.Expression Statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.Variable"
+              "title": "02.Expression Statement"
             }
           }
         ],
@@ -201,10 +201,12 @@
   },
   "active": "18c3dd396bb68742",
   "lastOpenFiles": [
-    "modern-javascript-deep-dive/1st-read/01.Variable/01.Variable.md",
     "modern-javascript-deep-dive/2nd-read/01.Variable/01.Variable.md",
-    "modern-javascript-deep-dive/1st-read/35.Browser Rendering/35.Browser Rendering.md",
+    "modern-javascript-deep-dive/2nd-read/02.Expression Statement/02.Expression Statement.md",
     "modern-javascript-deep-dive/1st-read/02.Expression Statement/02.Expression Statement.md",
+    "modern-javascript-deep-dive/2nd-read/02.Expression Statement",
+    "modern-javascript-deep-dive/1st-read/01.Variable/01.Variable.md",
+    "modern-javascript-deep-dive/1st-read/35.Browser Rendering/35.Browser Rendering.md",
     "modern-javascript-deep-dive/1st-read/15.Function & First Class Object/15.Function & First Class Object.md",
     "modern-javascript-deep-dive/1st-read/12.const & let & Block-level Scope/12.const & let & Block-level Scope.md",
     "modern-javascript-deep-dive/1st-read/08.Primitive Type VS Object Type/08.Primitive Type VS Object Type.md",
